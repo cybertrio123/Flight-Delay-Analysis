@@ -223,12 +223,6 @@ It showcases practical skills in Python, Pandas, exploratory data analysis, visu
 
 ---
 
-## 👩‍💻 Author
-
-**Data Science Student**
-
-Bachelor's in Data Science
-
 ### Skills Demonstrated
 
 `Python` · `SQL` · `Excel` · `Pandas` · `NumPy` · `Data Visualization` · `Tableau` · `EDA`
